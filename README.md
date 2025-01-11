@@ -6,4 +6,4 @@ I know, the name is way too random.
 
 - 👀 I’m interested in Python & Kotlin
 - 🌱 I’m currently learning Kotlin
-- 😄 I use Windows btw
+- 😄 I use Linuxxx btw
