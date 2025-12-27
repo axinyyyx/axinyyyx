@@ -7,17 +7,14 @@ I know, the name is way too random.
 - 🌱 I’m currently learning Kotlin
 - 😄 I use Linuxxx btw
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=axinyyyx&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=axinyyyx&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=axinyyyx&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=axinyyyx&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=axinyyyx&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
