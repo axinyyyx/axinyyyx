@@ -1,9 +1,9 @@
 ## Hi there, I’m @axinyyyx 👋
 
 I know, the name is way too random.
-- 👀 I’m interested in Python & Kotlin
-- 🌱 I’m currently learning Kotlin
-- 😄 I use Linuxxx btw
+- 👀 I’m interested in Python & React-Native
+- 🌱 I’m currently learning ReactJs
+- 😄 I use Linuxxx/Windows btw
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
