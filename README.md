@@ -1,8 +1,8 @@
 ## Hi there, I’m @axinyyyx 👋
 
 I know, the name is way too random.
-- 👀 I’m interested in Python & React-Native
-- 🌱 I’m currently learning ReactJs
+- 👀 I’m interested in Python.
+- 🌱 I’m currently learning C
 - 😄 I use Linuxxx/Windows btw
 
 ### ✍️ Random Dev Quote
